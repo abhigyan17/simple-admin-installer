@@ -1,0 +1,16 @@
+*.ipk
+Packages.gz
+opkg
+opkg.conf
+update_*.sh
+htpasswd*
+simplepasswd*
+*.py
+offline_push.tar
+__pycache__/
+repo/
+c.txt
+packages_list.txt
+test*.bat
+test.txt
+download_packages.ps1
